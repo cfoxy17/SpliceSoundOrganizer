@@ -3,8 +3,11 @@
 Everyone can agree that after a long session on Splice, it can be extremely annoying to try to get all your new files out of the mess of folders in your Documents->Splice->Samples folder. This program will go through all these, organize them by Hi-Hat/808/Kick/Synth/Piano/etc, and then move the organized folder to the directory of your choosing (I have it move them to my FL Studio patches folder)
 
 To configure it, all you have to do is:
+
 -save these two files to your Splice folder in "Documents" (or wherever your splice sounds save to)
+
 -**edit the paths in bold** below so the program is looking at the right paths
+
 -Run the program by double-clicking on MoveFiles.bat
 
 *(file: MoveFiles.bat)*

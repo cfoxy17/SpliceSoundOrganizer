@@ -10,6 +10,8 @@ To configure it, all you have to do is:
 
 -Run the program by double-clicking on MoveFiles.bat
 
+--------------------------------------------------------------------------
+
 *(file: MoveFiles.bat)*
 
 
